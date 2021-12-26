@@ -1,0 +1,6 @@
+Credentials cache: API:BC15E48D-B6A9-46C2-BD37-9CB2C7BAD72A
+        Principal: dripanuc@42ROMA.IT
+
+  Issued                Expires               Principal
+Nov 24 09:14:54 2021  Nov 24 19:14:54 2021  krbtgt/42ROMA.IT@42ROMA.IT
+Nov 24 09:14:57 2021  Nov 24 19:14:54 2021  HTTP/storage.42roma.it@42ROMA.IT

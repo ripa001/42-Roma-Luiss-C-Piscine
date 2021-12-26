@@ -1,0 +1,41 @@
+0: zero
+1: unu
+2: doi
+3: trei
+4: patru
+5: cinci
+6: sase
+7: sapte
+8: opt
+9: noua
+10: zece
+11: unsprezece
+12: doisprezece
+13: treisprezece
+14: paisprezece
+15: cincisprezece
+16: saisprezece
+17: saptesprezece
+18: optsprezece
+19: nouasprezece
+20: douazeci
+30: treizeci
+40: patruzeci
+50: cincizeci
+60: sasezeci
+70: saptezeci
+80: optzeci
+90: nouazeci
+100: o suta
+1000: o mie
+1000000: milion
+1000000000: miliard
+1000000000000: trilion
+1000000000000000: cvadrilion
+1000000000000000000: chintilion
+1000000000000000000000: sextillion
+1000000000000000000000000: septilion
+1000000000000000000000000000: un octilion
+1000000000000000000000000000000: nonillion
+1000000000000000000000000000000000: decilion
+1000000000000000000000000000000000000: undecilion
